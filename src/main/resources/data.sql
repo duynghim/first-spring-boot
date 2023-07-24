@@ -1,0 +1,1 @@
+INSERT INTO COMPANY (ID, NAME) VALUES (1, 'Bosch VietName');
